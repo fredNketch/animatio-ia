@@ -1,0 +1,9 @@
+# Médias lourds générés (garder hors du dépôt git, à sauvegarder ailleurs : Drive, disque…)
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+production/exports/*
+!production/**/.gitkeep
+.DS_Store
