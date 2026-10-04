@@ -66,7 +66,7 @@ Avoid: nodding, head turning while speaking, distorted mouth, extra fingers, tex
 ```
 
 ## S4 — Le parapluie jaune arrive (sans dialogue)
-Réfs : `@Image1` = `EP01_S04_KF` · `@Image2` = `PROP_PARAPLUIE`
+Réfs : `@Image1` = `EP01_S04_KF` · `@Image2` = `PROP_PARAPLUIE_ouvert`
 
 ```
 @Image1 is the first frame. The umbrella is the one from @Image2.

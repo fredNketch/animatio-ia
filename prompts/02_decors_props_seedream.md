@@ -48,9 +48,14 @@ Using the street from Image 1, same buildings, same pharmacy storefront and gree
 
 ## ACCESSOIRES (fond gris uni, 1:1, 2K)
 
-### `PROP_PARAPLUIE`
+### `PROP_PARAPLUIE_ouvert` (S4) — Image 1 = `REF_ELIAS_hero`
 ```
-Product-style reference of a bright canary-yellow classic dome umbrella, open, with a curved polished wooden handle and a thin black metal tip, rain droplets on the fabric, three-quarter view, on a plain medium-grey background, soft even studio lighting. Stylized 3D animated feature film look, hand-painted textures. Avoid: text, logo, watermark.
+Reference of the exact same umbrella as the one held in Image 1, alone, without the man: a bright canary-yellow classic dome umbrella, fully open, eight panels, with a single curved polished wooden J-shaped crook handle attached to a straight dark metal shaft, a short pointed black metal tip on top of the canopy, rain droplets on the fabric. Three-quarter view from slightly below, the whole umbrella visible and centered, handle hanging straight down. Plain medium-grey seamless background, soft even neutral studio lighting. Stylized 3D animated feature film look, hand-painted textures. Not photorealistic. Avoid: person, hand, double hook, U-shaped handle, broken shaft, text, logo, watermark.
+```
+
+### `PROP_PARAPLUIE_ferme` (S9) — Image 1 = `PROP_PARAPLUIE_ouvert`
+```
+The exact same umbrella as in Image 1, same canary-yellow fabric, same curved wooden J-shaped crook handle, now closed and loosely furled, wet and dripping, standing upright and leaning slightly to the right: the wooden crook handle at the top, the furled yellow canopy in the middle, and the sharp pointed black metal tip at the bottom resting on the floor, a few water drops falling from the tip. Side view, whole umbrella visible and centered. Plain medium-grey seamless background, soft even neutral studio lighting. Stylized 3D animated feature film look, hand-painted textures. Not photorealistic. Avoid: upside-down umbrella, handle touching the floor, open umbrella, person, hand, double hook, text, logo, watermark.
 ```
 
 ### `PROP_TELEPHONE`

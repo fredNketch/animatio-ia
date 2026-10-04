@@ -31,7 +31,7 @@ Medium close-up of the woman from Image 1 standing behind the pharmacy counter f
 ```
 
 ### S4 — `EP01_S04_KF`
-Réfs : Image 1 = `SET_RUE` · Image 2 = `PROP_PARAPLUIE`
+Réfs : Image 1 = `SET_RUE` · Image 2 = `PROP_PARAPLUIE_ouvert`
 
 ```
 Static wide vertical shot of the empty rainy cobblestone street from Image 1 at 3 a.m., the emerald-green pharmacy cross blinking on the storefront on the right side, puddles reflecting green and amber light, and far away at the end of the street a small figure in a long dark trench coat walking toward the camera under the bright canary-yellow umbrella from Image 2, the umbrella hiding the face. The yellow umbrella is the only yellow element in the image. Vertical 9:16. Stylized 3D animated feature film look, hand-painted textures, cinematic composition. Rainy Paris night. Color palette: deep teal shadows, emerald-green neon light, warm amber practical lights, saturated canary-yellow used only as a rare accent. Volumetric light, subtle film grain. Not photorealistic. Avoid: photorealism, visible face, cars, other people, readable signs, text artifacts, watermark, logo, subtitles.
@@ -66,7 +66,7 @@ Close-up of the tall man from Image 1 standing outside the night-service window 
 ```
 
 ### S9 — `EP01_S09_KF`
-Réfs : Image 1 = `REF_INES_face` · Image 2 = `SET_PHARMA_arriere` · Image 3 = `PROP_PARAPLUIE`
+Réfs : Image 1 = `REF_INES_face` · Image 2 = `SET_PHARMA_arriere` · Image 3 = `PROP_PARAPLUIE_ferme`
 
 > Ce keyframe correspond au **plan final** (le parapluie dans l'arrière-boutique). On l'utilise comme **dernière frame** (last frame) de la scène 9 — voir le prompt Seedance.
 
