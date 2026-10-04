@@ -81,7 +81,7 @@ Using the character from Image 1, create a clean character reference portrait: s
 Format : **16:9**, 2K — Image 1 = `REF_ELIAS_face`
 
 ```
-Character turnaround reference sheet of the man from Image 1, same exact face, beard and hair. Four full-body views side by side on one plain light-grey background: front view, three-quarter view, side profile, back view. Neutral standing pose, holding a closed bright canary-yellow umbrella with a curved wooden handle in his RIGHT hand. Long dark navy trench coat, collar up, charcoal scarf, dark trousers, worn black leather shoes, white gauze bandage on LEFT hand, white hospital wristband on RIGHT wrist. Even neutral studio lighting, identical proportions in every view. Stylized 3D animated feature film look. Not photorealistic. Avoid: text, labels, watermark, extra limbs, different outfits between views.
+Character turnaround reference sheet of the man from Image 1, same exact face, beard and hair; use Image 2 for the outfit and body proportions. Four full-body views of the same character side by side on one plain light-grey background, evenly spaced, same scale: front view, three-quarter view, side profile facing right, back view. Very tall thin man, slightly stooped. Neutral standing pose. In his RIGHT hand he holds a closed bright canary-yellow umbrella like a walking cane, held the correct way up: his fingers grip the curved wooden J-shaped handle at the top, the tightly furled yellow canopy points downward, and the umbrella ends at the bottom in a sharp pointed black metal tip that touches the floor. His LEFT hand hangs empty and relaxed, wrapped in a white gauze bandage with a small red stain. White hospital ID wristband on his RIGHT wrist. Outfit: long dark navy trench coat with the collar up, charcoal scarf, dark trousers, worn black leather shoes. Even neutral studio lighting, identical proportions and design in every view. Stylized 3D animated feature film look, soft stylized skin shading, hand-painted textures. Not photorealistic. Avoid: upside-down umbrella, curved handle touching the floor, hook at the bottom, bandage on the right hand, gloves, open umbrella, text, labels, numbers, watermark, extra limbs, extra fingers, different outfits between views, colored lighting.
 ```
 
 ### 4. Planche d'expressions — `REF_ELIAS_expressions`
@@ -96,7 +96,7 @@ Expression sheet of the man from Image 1, same exact face, beard, swept-back wet
 - [ ] Trench **bleu marine** col relevé + écharpe anthracite
 - [ ] Bandage blanc + petite tache rouge, main **GAUCHE**
 - [ ] Bracelet d'hôpital blanc, poignet **DROIT**
-- [ ] Parapluie **jaune canari**, manche bois courbé, main **DROITE**
+- [ ] Parapluie **jaune canari**, manche bois courbé EN HAUT dans la main **DROITE**, **pointe métallique pointue en bas** (jamais le crochet au sol)
 
 ---
 
